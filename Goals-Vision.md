@@ -1,19 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# Let's focus on keeping anything this project is involved with as open, inclusive and most importantly, not profit driven
-
-That’s a fantastic guiding principle! Building your open source space MMO around openness, inclusivity, and a non-profit-driven ethos will resonate with a lot of people—especially those wary of crypto or commercial motives.
-
-Here’s how you can keep your project true to those values:
-
----
-
-## 1. **Open Source Everything**
-
-- **License:** Use a permissive license (like MIT, Apache 2.0, or GPL) for all code and assets. This ensures anyone can contribute, fork, or build on your work.
-- **Transparency:** Keep development public—use platforms like GitHub or GitLab, and document decisions, roadmaps, and discussions.
-
-
 ## 2. **Inclusive Community**
 
 - **Welcoming Culture:** Write a clear code of conduct and contributor guidelines. Make it easy for newcomers to get involved, regardless of skill level.
