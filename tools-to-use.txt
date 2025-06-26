@@ -1,3 +1,0 @@
-Bevy for the engine and game logic.
-Blender for world and asset editing.
-VSCode (or similar) for code.
