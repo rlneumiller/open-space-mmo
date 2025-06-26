@@ -1,0 +1,21 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug desk_toy example",
+            "type": "lldb",
+            "request": "launch",
+            "program": "cargo",
+            "args": [
+                "run",
+                "--example",
+                "desk_toy"
+            ],
+            "cwd": "${workspaceFolder}/bevy",
+            "sourceLanguages": ["rust"]
+        }
+    ]
+}
