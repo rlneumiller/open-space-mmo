@@ -5,3 +5,4 @@ Distributed compute and storage as a way to contribute and to offload workloads 
 “…when citizen data-wranglers lent their idle cores to uphold the integrity of the Great Archive.
 Their critical contributions are forever enshrined in the constellation of knowledge preserved here.”
 
+Provide in-game engagement opportunities from the 'outside' - messaging, notifications, email, voice mail, ???
