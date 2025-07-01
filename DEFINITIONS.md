@@ -1,3 +1,21 @@
-> “Source Code” refers to the set of files used to produce the executable logic of the game, including server code, game engine modules, scripting systems, configuration files, and in-game logic definitions — typically stored in .rs, .ts, .lua, or .json files.
+**Definitions**
 
-> “Creative Content” includes any contributed artwork, music, sound effects, animations, 3D models, written narrative, dialogue, missions, lore, or other expressive works included in the game.
+- **Source Code:**  
+  The set of files used to produce the executable logic of the game, including:
+  - Server code
+  - Game engine modules
+  - Scripting systems
+  - Configuration files
+  - In-game logic
+
+- **Creative Content:**  
+  Any contributed expressive works included in the game, such as:
+  - Artwork
+  - Music
+  - Sound effects
+  - Animations
+  - 3D models
+  - Written narrative
+  - Dialogue
+  - Missions
+  - Lore
