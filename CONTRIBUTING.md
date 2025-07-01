@@ -1,10 +1,17 @@
 # Contributing to Open Space MMO
-
-Welcome! 🌌 We’re building more than just a game — we’re creating a community and a universe together. Whether you're fixing typos, designing alien lifeforms, contributing code, or shaping gameplay mechanics, you're part of something meaningful.
+Welcome! 🌌 We’re building more than just a game — we’re working to create a vibrant, passionate and diverse community of open source developers, gamers, writers, designers, and dreamers. Whether you're fixing typos, designing alien lifeforms, contributing code, or shaping gameplay mechanics, you're part of something remarkable.
 
 ## ✨ Our Vision
 
-This project is fueled by the belief that immersive, inclusive, ethical worlds are worth building — both in-game and in development. We're developing a space MMO under a community-first philosophy that resists exploitative corporate interests and encourages cooperation, creativity, and equitable participation.
+We imagine a universe where the adventure is shared, the community is the cornerstone, and the experience is built on respect for its players. This project is our answer to that vision: a space MMO developed with a focus on player agency, creativity, and transparent, community-led principles. We're committed to creating a world that is as rewarding to build as it is to play.
+
+We aspire to integrate cutting-edge accessibility and immersion technologies — including, but not limitied to, XR\VR, eye tracking, natural language interfaces, real-time multilingual translation, and other tools that reflect the inclusive, interoperable societies our game universe envisions.
+
+## 🧠 Interface Ethos
+
+Our interface isn't just about menus and maps — it's a bridge between human intuition and the user experiences of a galactic civilization.
+We’re actively exploring look-to-interact mechanics, language-neutral systems, and adaptive input models that reflect how wildly diverse lifeforms might navigate a spacefaring society.
+Want to help invent the next starship interface? Welcome aboard.
 
 ## 🤝 How to Get Involved
 
