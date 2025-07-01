@@ -1,3 +1,4 @@
+# 0. Don't forget the fun.
 
 ## 1. Open source like there's a tomorrow
 
