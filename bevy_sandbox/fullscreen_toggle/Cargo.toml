@@ -1,0 +1,18 @@
+[package]
+name = "fullscreen_toggle"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.16.1"
+
+# Enable fast compiles for development
+[profile.dev]
+opt-level = 1
+
+[profile.dev.package."*"]
+opt-level = 3
+
+# Optional: Enable additional Bevy features if needed
+# [dependencies]
+# bevy = { version = "0.16.1", features = ["dynamic_linking"] }  # For faster compile times in debug
