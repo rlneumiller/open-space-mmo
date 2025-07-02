@@ -6,3 +6,4 @@ Distributed compute and storage as a way to contribute and to offload workloads 
 Their critical contributions are forever enshrined in the constellation of knowledge preserved here.”
 
 Provide in-game engagement opportunities from the 'outside' - messaging, notifications, email, voice mail, ???
+Allow for automation of the same boring stuff you'd automate in RL if you could - e.g. piloting spacecraft, navigation, landing, farming, mining, hauling, comensurate with the maintenance and wear and tear, etc.
