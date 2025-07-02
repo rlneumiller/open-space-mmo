@@ -9,3 +9,6 @@ This project includes code from:
 - example project-2 (Apache-2.0) - see LICENSES/project-2-Apache-2.0.txt
 - [bevy](https://github.com/bevyengine/bevy?tab=readme-ov-file#license)
 - [refact](https://github.com/smallcloudai/refact/blob/main/LICENSE)
+
+## Inspirations
+- [YAMU](https://github.com/keijiro/Yamu)
