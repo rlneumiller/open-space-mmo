@@ -1,4 +1,4 @@
-# Big Ideas:
+# Big Ideas
 
 - Provide all participants a persistent "place" in the universe. Could be a planet, or a city, or an apartment or a parcel of land or an asteroid or a region of space.
 

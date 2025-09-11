@@ -1,9 +1,17 @@
 # Brainstorms
 
+## Procedural galaxy generation
+
+It's a quantum universe - it only exists if it has been, and remains, observed
+In the beginning astronomical observatories will be somewhat rudimentary, so  what is observable is what will exist
+
+## Procedural planetary system generation
+
+Create persisitent planetary systems only once they've been **discovered**
 
 ## 🤖 Automation as Agency
 
-**Core Concept**: Allow players to automate repetitive or non-critical tasks — just like you’d script them in real life — provided they manage the trade-offs: system upkeep, software complexity, performance degradation, etc.
+**Core Concept**: Allow players to automate repetitive or non-critical tasks — just like you’d automate them in real life — provided they manage the trade-offs: system upkeep, software complexity, performance degradation, etc.
 
 ---
 

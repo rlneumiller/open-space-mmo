@@ -1,17 +1,18 @@
-## Tools
-- **rust**: Nip several security issues in the bud (leverage FFI to C\zig if perf warrants?)
+# Tools
+
+- **rust nightly**: Nip several security issues in the bud (leverage FFI to `C` or `zig` if profiling warrants?)
+
 - **Bevy**: Game engine and game logic
 - **Blender**: World and asset editing, animation, etc
 - **VSCode (or similar)**: Code editing
 - **AI**: Embrace *vibe-coding* — it's here to stay
-- **Source control**: Github and\or gitlab - look into a private gitlab instance if and when we have established how to decentralize the projects' resources 
+- **Source control**: Github and\or gitlab - look into a private gitlab instance if and when we have established how to decentralize the projects' resources
 - **BLAKE3**: Fingerprinting game files and critical memory regions (anit-cheat)
-- **BOINC**: https://github.com/BOINC/boinc.git for background, latency-tolerant computation.
+- [**BOINC**](https://github.com/BOINC/boinc.git) for background, latency-tolerant computation.
 
 ---
 
-
-### 🧠 BOINC Conceptual Fit
+## 🧠 BOINC Conceptual Fit
 
 BOINC is built for **volunteer computing**, letting users donate idle CPU/GPU time for distributed workloads. Adapt this model to:
 
@@ -33,7 +34,4 @@ BOINC is built for **volunteer computing**, letting users donate idle CPU/GPU ti
 - **Validation**: Use redundancy — send the same task to multiple clients and compare results for correctness.
 - **Performance**: BOINC is best for long-running, compute-heavy tasks. Not suitable for real-time or low-latency needs.
 
-## Leverage ptp storage
-
-
-1. ****
+## Leverage (encrypted) ptp storage for **indefinite** persistence?

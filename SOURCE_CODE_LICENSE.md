@@ -1,0 +1,1 @@
+[SOURCE_CODE_LICENSE](https://github.com/rlneumiller/open-space-mmo/blob/main/SOURCE_CODE_LICENSE)

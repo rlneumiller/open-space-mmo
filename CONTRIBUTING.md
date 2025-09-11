@@ -1,4 +1,5 @@
-# Contributing to Open Space MMO
+# Contributing to Open Space MMO (OSMMO)
+
 Welcome! 🌌 We’re building more than just a game — we’re working to create a vibrant, passionate and diverse community of open source developers, gamers, writers, designers, and dreamers. Whether you're fixing typos, designing alien lifeforms, contributing code, or shaping gameplay mechanics, you're part of something remarkable.
 
 ## ✨ Our Vision

@@ -1,2 +1,22 @@
-simple_winit/target/
+
 bevy_sandbox/bevy_disposables/
+chatterbox/
+## Rust
+target/
+**/target/
+Cargo.lock
+
+# By default, Cargo will ignore these files, but it's good to be explicit
+.cargo/
+
+## Bevy
+# Ignore asset hot-reload artifacts
+assets/
+assets/*
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,11 @@
+[package]
+name = "bevy_renet_test"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bevy = "0.16.1"
+bevy_renet = "2.0.0"
+renet = "1.1.0"
+renet_netcode = "1.1.0"
+
