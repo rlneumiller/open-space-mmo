@@ -9,6 +9,7 @@
 - **Source control**: Github and\or gitlab - look into a private gitlab instance if and when we have established how to decentralize the projects' resources
 - **BLAKE3**: Fingerprinting game files and critical memory regions (anit-cheat)
 - [**BOINC**](https://github.com/BOINC/boinc.git) for background, latency-tolerant computation.
+- [**Tracy client**](https://github.com/nagisa/rust_tracy_client)
 
 ---
 
